@@ -52,4 +52,33 @@ pnpm dev
 Open http://localhost:3000
  to view the app in the browser
 
+---
+
+##⚡ Usage
+
+- Enter any GitHub username in the search bar.
+- View the user profile and repositories instantly.
+- Click on a repository (if implemented) to see more details on GitHub.
+
+---
+## 🌐 Deployment
+
+- The app can be deployed on Vercel for free.
+- After deployment, share your Demo URL with others.
+
+---
+
+## 📝 Contributing
+
+### Contributions are welcome! Feel free to:
+
+- Submit bug reports.
+- Open pull requests with new features.
+- Suggest UI/UX improvements.
+
+---
+
+##📄 License
+
+This project is open-source and available under the MIT License.
 ```bash
