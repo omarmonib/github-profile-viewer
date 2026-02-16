@@ -54,7 +54,7 @@ Open http://localhost:3000
 
 ---
 
-##⚡ Usage
+## ⚡ Usage
 
 - Enter any GitHub username in the search bar.
 - View the user profile and repositories instantly.
@@ -78,7 +78,7 @@ Open http://localhost:3000
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is open-source and available under the MIT License.
-```bash
+`bash
